@@ -1,0 +1,14 @@
+C:\Amst5\Project\POO\Task08_POO\bin\Debug\net8.0\Task08_POO.exe
+C:\Amst5\Project\POO\Task08_POO\bin\Debug\net8.0\Task08_POO.deps.json
+C:\Amst5\Project\POO\Task08_POO\bin\Debug\net8.0\Task08_POO.runtimeconfig.json
+C:\Amst5\Project\POO\Task08_POO\bin\Debug\net8.0\Task08_POO.dll
+C:\Amst5\Project\POO\Task08_POO\bin\Debug\net8.0\Task08_POO.pdb
+C:\Amst5\Project\POO\Task08_POO\obj\Debug\net8.0\Task08_POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Amst5\Project\POO\Task08_POO\obj\Debug\net8.0\Task08_POO.AssemblyInfoInputs.cache
+C:\Amst5\Project\POO\Task08_POO\obj\Debug\net8.0\Task08_POO.AssemblyInfo.cs
+C:\Amst5\Project\POO\Task08_POO\obj\Debug\net8.0\Task08_POO.csproj.CoreCompileInputs.cache
+C:\Amst5\Project\POO\Task08_POO\obj\Debug\net8.0\Task08_POO.dll
+C:\Amst5\Project\POO\Task08_POO\obj\Debug\net8.0\refint\Task08_POO.dll
+C:\Amst5\Project\POO\Task08_POO\obj\Debug\net8.0\Task08_POO.pdb
+C:\Amst5\Project\POO\Task08_POO\obj\Debug\net8.0\Task08_POO.genruntimeconfig.cache
+C:\Amst5\Project\POO\Task08_POO\obj\Debug\net8.0\ref\Task08_POO.dll
