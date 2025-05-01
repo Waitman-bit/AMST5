@@ -1,0 +1,14 @@
+C:\projects\Task_Horas\bin\Debug\net9.0\Task_Horas.exe
+C:\projects\Task_Horas\bin\Debug\net9.0\Task_Horas.deps.json
+C:\projects\Task_Horas\bin\Debug\net9.0\Task_Horas.runtimeconfig.json
+C:\projects\Task_Horas\bin\Debug\net9.0\Task_Horas.dll
+C:\projects\Task_Horas\bin\Debug\net9.0\Task_Horas.pdb
+C:\projects\Task_Horas\obj\Debug\net9.0\Task_Horas.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\Task_Horas\obj\Debug\net9.0\Task_Horas.AssemblyInfoInputs.cache
+C:\projects\Task_Horas\obj\Debug\net9.0\Task_Horas.AssemblyInfo.cs
+C:\projects\Task_Horas\obj\Debug\net9.0\Task_Horas.csproj.CoreCompileInputs.cache
+C:\projects\Task_Horas\obj\Debug\net9.0\Task_Horas.dll
+C:\projects\Task_Horas\obj\Debug\net9.0\refint\Task_Horas.dll
+C:\projects\Task_Horas\obj\Debug\net9.0\Task_Horas.pdb
+C:\projects\Task_Horas\obj\Debug\net9.0\Task_Horas.genruntimeconfig.cache
+C:\projects\Task_Horas\obj\Debug\net9.0\ref\Task_Horas.dll
